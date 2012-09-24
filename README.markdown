@@ -11,8 +11,7 @@ Proyectos y dibujos escaneados del logo de Ututo.
 Quehaceres
 ----------
 
-- Mejorar aspecto del svg
-- Hacer versiones de tipo iconos
+- Mejorar aspecto del proyecto svg
 
 Agradecimientos
 ---------------
