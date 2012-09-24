@@ -17,5 +17,5 @@ Quehaceres
 Agradecimientos
 ---------------
 
-- David
-- Cynthia
+- David Fernandez
+- Cynthia Martinez
