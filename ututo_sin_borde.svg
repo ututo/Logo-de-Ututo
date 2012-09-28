@@ -15,9 +15,12 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="ututo_sticker_bckp.svg"
+   sodipodi:docname="ututo_sin_borde.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.1">
+   version="1.1"
+   inkscape:export-filename="/home/moteado/Desarrollo/mascotas/ututo/exportados/ututo_sin_borde.png"
+   inkscape:export-xdpi="79.550003"
+   inkscape:export-ydpi="79.550003">
   <defs
      id="defs4">
     <linearGradient
@@ -1076,11 +1079,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15676836"
-     inkscape:cx="-964.40057"
-     inkscape:cy="456.01334"
+     inkscape:zoom="0.23200794"
+     inkscape:cx="756.60688"
+     inkscape:cy="238.12978"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="558"
@@ -1137,26 +1140,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="mascara">
-    <path
-       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4514)"
-       d="m 97.950864,302.92076 c 0,0 17.189706,-314.32913 340.892606,-298.28103 323.7029,16.0481 239.6901,298.28103 239.6901,298.28103 0,0 223.6329,-37.94732 234.3636,197.07854 10.7308,235.02585 -298.281,122.50828 -298.281,122.50828 l -10.6529,95.87605 c 0,0 188.2343,74.30814 133.1612,207.73143 -55.073,133.42334 -138.0547,34.01329 -223.7108,74.57024 -85.65599,40.557 -136.69919,203.0011 -255.6694,197.0785 -118.97021,-5.9226 -31.95868,-181.0991 -31.95868,-181.0991 0,0 -133.057636,64.494 -149.140526,-85.2232 C 60.562184,781.72432 193.82691,792.95388 193.82691,792.95388 L 151.21533,681.09849 c 0,0 -289.07989,142.01672 -298.28105,-127.83473 -9.20115,-269.85144 245.016584,-250.343 245.016584,-250.343 z"
-       id="path4394-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czczcczzzczcczc"
-       inkscape:export-filename="/home/moteado/Desarrollo/mascotas/ututo/ututo_sin_fondo.png"
-       inkscape:export-xdpi="79.550003"
-       inkscape:export-ydpi="79.550003" />
-    <path
-       style="fill:#ffffff;stroke:url(#linearGradient4462);stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 106.52894,278.02737 c 0,0 17.18971,-314.32913 340.89261,-298.281028 323.7029,16.0481023 239.69011,298.281028 239.69011,298.281028 0,0 223.63294,-37.94732 234.36366,197.07854 C 932.20605,710.13176 623.1943,597.61419 623.1943,597.61419 l -10.6529,95.87605 c 0,0 188.23423,74.30814 133.16117,207.73143 C 690.62952,1034.645 607.64785,935.23496 521.9918,975.79193 436.33576,1016.3489 385.29256,1178.793 266.32235,1172.8704 147.35214,1166.9478 234.36367,991.77127 234.36367,991.77127 c 0,0 -133.05764,64.49403 -149.140522,-85.22316 C 69.140268,756.83093 202.40499,768.06049 202.40499,768.06049 L 159.79341,656.2051 c 0,0 -289.07988,142.01672 -298.28104,-127.83473 -9.20115,-269.85144 245.01657,-250.343 245.01657,-250.343 z"
-       id="path4394"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czczcczzzczcczc"
-       inkscape:export-filename="/home/moteado/Desarrollo/mascotas/ututo/ututo_sin_fondo.png"
-       inkscape:export-xdpi="79.550003"
-       inkscape:export-ydpi="79.550003" />
-  </g>
+     inkscape:label="mascara" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
