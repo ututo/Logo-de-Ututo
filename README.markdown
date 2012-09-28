@@ -10,7 +10,7 @@ Proyectos y dibujos escaneados del logo de [Ututo](http://www.ututo.org), que es
 ![Logo 64 ](https://raw.github.com/b4zz4/Logo-de-Ututo/44926d00e9a58bdada65561de0861386500fc757/exportados/ututo_64.png)
 ![Logo 32 ](https://raw.github.com/b4zz4/Logo-de-Ututo/44926d00e9a58bdada65561de0861386500fc757/exportados/ututo_32.png)
 
-![Logo](https://raw.github.com/b4zz4/Logo-de-Ututo/808243b6bbf57caee42540470e861dc9d21e28c1/exportados/ututo_sin_borde.png)
+![Logo](https://raw.github.com/b4zz4/Logo-de-Ututo/808243b6bbf57caee42540470e861dc9d21e28c1/exportados/ututo_sin_borde_sin_borde.png)
 
 ![Logo 128 ](https://raw.github.com/b4zz4/Logo-de-Ututo/808243b6bbf57caee42540470e861dc9d21e28c1/exportados/ututo_sin_borde_128.png)
 ![Logo 96 ](https://raw.github.com/b4zz4/Logo-de-Ututo/808243b6bbf57caee42540470e861dc9d21e28c1/exportados/ututo_sin_borde_96.png)
