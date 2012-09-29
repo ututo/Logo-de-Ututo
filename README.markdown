@@ -30,7 +30,7 @@ Quehaceres
 Licencia
 --------
 
-GDFL 1.3 / Creative Commons (Atribución-Compartir Igual 3.0 Unported)
+[GDFL 1.3](https://www.gnu.org/licenses/fdl-1.3) / [Creative Commons (Atribución-Compartir Igual 3.0 Unported)](https://creativecommons.org/licenses/by-sa/2.5/ar/)
 
 
 Agradecimientos
