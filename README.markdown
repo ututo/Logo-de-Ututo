@@ -27,6 +27,12 @@ Quehaceres
 
 - Mejorar aspecto del proyecto svg
 
+Licencia
+--------
+
+GDFL 1.3 / Creative Commons (Atribución-Compartir Igual 3.0 Unported)
+
+
 Agradecimientos
 ---------------
 
